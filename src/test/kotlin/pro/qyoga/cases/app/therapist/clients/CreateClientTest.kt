@@ -1,6 +1,5 @@
 package pro.qyoga.cases.app.therapist.clients
 
-import io.kotest.matchers.collections.shouldHaveSize
 import io.kotest.matchers.shouldBe
 import org.junit.jupiter.api.Test
 import pro.qyoga.assertions.shouldHave
